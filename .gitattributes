@@ -1,0 +1,7 @@
++.csv filter=lfs diff=lfs merge=lfs -text
++.shp filter=lfs diff=lfs merge=lfs -text
+*.shp filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+data/LOCAL_PEOPLE_DONG_202406.csv filter=lfs diff=lfs merge=lfs -text
+data/N3A_E0032111/N3A_E0032111.shp filter=lfs diff=lfs merge=lfs -text
+data/서울특별시[[:space:]]공공자전거[[:space:]]대여이력[[:space:]]정보_2401.csv filter=lfs diff=lfs merge=lfs -text
